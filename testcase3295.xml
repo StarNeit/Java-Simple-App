@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE family-tree PUBLIC "-//Portland State University//DTD CS410J Family Tree//EN" "http://www.cs.pdx.edu/~whitlock/dtds/familytree.dtd">
+<family-root>
+<person id="3">
+<first-name>Stanley</first-name>
+<middle-name>Jay</middle-name>
+<lastname>Whitlock</lastname>
+<dateofbirth>
+<date>
+<month>1</month>
+<day>27</day>
+<year>1948</year>
+</date>
+</dateofbirth>
+<dod>
+<date>
+<day>27</day>
+<month>1</month>
+<year>1948</year>
+</date>
+</dod>
+</person>
+<person id="2" gender="female">
+<first-name>Carolyn</first-name>
+<middle-name>Joyce</middle-name>
+<last-name>Granger</last-name>
+<dob>
+<date>
+<month>4</month>
+<day>17</day>
+<year>1945</year>
+</date>
+</dob>
+</person>
+<person gender="male">
+<first-name>David</first-name>
+<middle-name>Michael</middle-name>
+<last-name>Whitlock</last-name>
+<fatherid>3</fatherid>
+<motherid>2</motherid>
+</person>
+<marriage husband-id="3" wife-id="2">
+<date>
+<month>6</month>
+<day>12</day>
+<year>1969</year>
+</date>
+<location>Durham, NH</location>
+</marriage>
+</family-root>

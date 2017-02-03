@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="ASCII" standalone="no"?>
+<!DOCTYPE family-tree PUBLIC "-//Portland State University//DTD CS410J Family Tree//EN" "http://www.cs.pdx.edu/~whitlock/dtds/familytree.dtd">
+<family-tree>
+  <person gender="male" id="1">
+    <first-name/>
+    <middle-name/>
+    <last-name>C</last-name>
+  </person>
+  <person gender="female" id="2">
+    <first-name/>
+    <middle-name/>
+    <last-name>B</last-name>
+  </person>
+</family-tree>
